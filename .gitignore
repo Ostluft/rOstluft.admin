@@ -1,3 +1,6 @@
+# session Infos with Auth Tokens
+.renviron
+
 # History files
 .Rhistory
 .Rapp.history
